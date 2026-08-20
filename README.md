@@ -1,6 +1,6 @@
 # FreePBX Security Reporting
 
-This repository is for reporting security vulnerabilities in the [FreePBX Project](/FreePBX) whether they be part of open or closed modules, the distro, or even underlying components that we should be made aware of in the form of friendly-reminders.
+This repository is for reporting security vulnerabilities in the [FreePBX Project](https://github.com/FreePBX) whether they be part of open or closed modules, the distro, or even underlying components that we should be made aware of in the form of friendly-reminders.
 
 Please read our [Security Policy](https://github.com/FreePBX/security-reporting/security/policy) and list of [Published Security Advisories](https://github.com/FreePBX/security-reporting/security/advisories?state=published). You may also wish to subscribe to our [community forums security category](https://community.freepbx.org/c/blog/security/55) for further interaction with other members of the FreePBX security community.
 
